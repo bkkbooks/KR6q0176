@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6q0176/x/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 觀心玄樞
+  edition:
+    short: x
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X65/X65n1290.xml
+    old_id: X65n1290
+hash: sha256:bb3d0993e64a3c34769f688e4468dc8fe3b71419445a57e573f642d8867363c8

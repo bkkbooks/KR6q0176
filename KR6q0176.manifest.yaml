@@ -1,0 +1,42 @@
+canonical_identifier: bkk:krp/KR6q0176/v1
+canonical_location: https://kanripo.org/bkk/KR6q0176/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 觀心玄樞
+  identifiers:
+    alt_id:
+    - X65n1290
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X65/X65n1290.xml
+    old_id: X65n1290
+  edition:
+    short: bkk
+editions:
+- short: 卍續
+  label: 卍續
+  source_xml_id: wit.orig
+- short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6q0176_000.yaml, hash: 'sha256:bb3d0993e64a3c34769f688e4468dc8fe3b71419445a57e573f642d8867363c8'}
+  - {seq: 1, filename: KR6q0176_001.yaml, hash: 'sha256:d72762e1ff3958afa75e23030afcafa7f33372547875f6f91b359029a7c489db'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6q0176_001.markers.yaml, hash: 'sha256:fe031c72929b529df85d30688c33dabc4dc79781835877294821bea01b4843de'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6q0176_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 27304
+  label: 觀心玄樞卷一
+  type: juan
+  level: 1
+hash: sha256:9c045d630585e2d176eb3ee7fdba968c0ceab3c4c80604286c00bdeff18aca24
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
