@@ -22,9 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6q0176_000.yaml, hash: 'sha256:bb3d0993e64a3c34769f688e4468dc8fe3b71419445a57e573f642d8867363c8'}
-  - {seq: 1, filename: KR6q0176_001.yaml, hash: 'sha256:d72762e1ff3958afa75e23030afcafa7f33372547875f6f91b359029a7c489db'}
+  - {seq: 1, filename: KR6q0176_001.yaml, hash: 'sha256:d725e237ed38cccf780a6f0e74382bb955bd7f99753deab7391e23b03f0ff55b'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6q0176_001.markers.yaml, hash: 'sha256:fe031c72929b529df85d30688c33dabc4dc79781835877294821bea01b4843de'}
+  - {seq: 0, role: markers, filename: assets/KR6q0176_000.markers.yaml, hash: 'sha256:039b9b6ae4d805df8c708fc5e41af71abe1a628b36c014468d766002e5eb9e77'}
+  - {seq: 1, role: markers, filename: assets/KR6q0176_001.markers.yaml, hash: 'sha256:546f83b96c3dd37f33daa4005b46360bc308f4187a6918eb9534987c7b5258fa'}
 table_of_contents:
 - ref:
     seq: 1
@@ -36,7 +37,4 @@ table_of_contents:
   label: 觀心玄樞卷一
   type: juan
   level: 1
-hash: sha256:9c045d630585e2d176eb3ee7fdba968c0ceab3c4c80604286c00bdeff18aca24
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:560d958ed991b4f8eb55b63b027b3326156d349bc7bf92d10a75e1402ce26595
